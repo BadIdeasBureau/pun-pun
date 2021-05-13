@@ -1,0 +1,44 @@
+{
+  "name": "pun-pun",
+  "title": "PunPun",
+  "description": "A ridiculous number of puns to make Tips less useful but more silly.",
+  "version": "This is auto replaced",
+  "library": "false",
+  "manifestPlusVersion": "1.0.0",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "0.8.3",
+  "authors": [
+    {
+      "name": "BadIdeasBureau",
+      "url": "https://github.com/BadIdeasBureau",
+      "discord": "BadIdeasBureau#7024"
+    }
+  ],
+  "dependencies": [
+
+  ],
+  "conflicts": [
+    
+  ],
+  "esmodules": [
+    
+  ],
+  "scripts": [
+    
+  ],
+  "styles": [
+    
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "allowBugReporter":true
+  "url": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced",
+  "bugs":"This is auto replaced"
+}
