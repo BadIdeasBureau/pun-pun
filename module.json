@@ -3,7 +3,7 @@
   "title": "PunPun",
   "description": "A ridiculous number of puns to make Tips less useful but more silly.",
   "version": "This is auto replaced",
-  "library": "false",
+  "library": false,
   "manifestPlusVersion": "1.0.0",
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion": "0.8.3",
@@ -15,7 +15,9 @@
     }
   ],
   "dependencies": [
-
+    {
+      "name": "tips"
+    }
   ],
   "conflicts": [
     
@@ -36,7 +38,7 @@
       "path": "lang/en.json"
     }
   ],
-  "allowBugReporter":true
+  "allowBugReporter":true,
   "url": "This is auto replaced",
   "manifest": "This is auto replaced",
   "download": "This is auto replaced",
